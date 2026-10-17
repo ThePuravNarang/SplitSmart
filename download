@@ -1,0 +1,6 @@
+# Dart / IDE files
+.dart_tool/
+.packages
+build/
+.idea/
+.vscode/
